@@ -1,0 +1,12 @@
+Gathering information about the directory...
+FileInfo(name='All Users', extension='', is_directory=True, parent_directory='Users')
+FileInfo(name='asics', extension='', is_directory=True, parent_directory='Users')
+FileInfo(name='Default', extension='', is_directory=True, parent_directory='Users')
+FileInfo(name='Default User', extension='', is_directory=True, parent_directory='Users')
+FileInfo(name='desktop', extension='.ini', is_directory=False, parent_directory='Users')
+FileInfo(name='Public', extension='', is_directory=True, parent_directory='Users')
+FileInfo(name='Виктория', extension='', is_directory=True, parent_directory='Users')
+FileInfo(name='Все пользователи', extension='', is_directory=True, parent_directory='Users')
+7 01:49:04,674: Gathered information: FileInfo(name='Public', extension='', is_directory=True, parent_directory='Users')
+[INFO    ] 2023-12-07 01:49:04,674: Gathered information: FileInfo(name='Виктория', extension='', is_directory=True, parent_directory='Users')
+[INFO    ] 2023-12-07 01:49:04,676: Gathered information: FileInfo(name='Все пользователи', extension='', is_directory=True, parent_directory='Users')
